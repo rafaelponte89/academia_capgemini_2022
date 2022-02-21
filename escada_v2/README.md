@@ -1,6 +1,6 @@
 
 # CONSTRUINDO UMA ESCADA
-
+O usuário entra com a quantidade de degraus desejados e a escada é construída.
 
 :heavy_check_mark: Ferramentas e tecnologias utilizadas
 
