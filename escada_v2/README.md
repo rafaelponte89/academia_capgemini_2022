@@ -23,10 +23,9 @@
 
 ## :arrow_forward: Execução do Projeto
 
-O arquivo  .jar dentro da pasta target deve ser executado com a JVM como a seguir: 
-* java -jar escada-2.0.0-SNAPSHOT.jar
-Após o comando anterior ter terminado de executar abra o navegador no seguinte endereço:
-* http://localhost:8090/
+O arquivo  .jar dentro da pasta target deve ser executado com a JVM. 
+* java -jar escada-2.0.0-SNAPSHOT.jar  (executar o seguinte arquivo usando a JVM)
+* http://localhost:8090/  (abrir o no navegador o seguinte endereço)
 
 
 
